@@ -8,6 +8,9 @@ This Python program scans a directory for audio and video files, transcribes the
 - **Transcription**: Uses the Whisper model for accurate speech-to-text conversion.
 - **Structured Output**: Saves transcriptions in JSON format.
 
+## Video Demonstration Link
+https://youtu.be/tZkyBa-hpmU
+
 ## 📦 Requirements
 Before running the script, install the required dependencies:
 ```bash
